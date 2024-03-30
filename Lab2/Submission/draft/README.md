@@ -1,0 +1,1 @@
+These files are used when testing Lab2DutchAuction to simulate the auction between two users.
